@@ -28,7 +28,7 @@
 }
 
 .u-section-1 .u-back-image-3 {
-  object-position: 1.9% 50%;
+  object-position: 0% 50%;
 }
 
 .u-section-1 .u-over-slide-3 {
@@ -101,7 +101,6 @@
   min-height: 290px;
   margin-top: 74px;
   margin-bottom: 60px;
-  height: auto;
 }
 
 .u-section-2 .u-repeater-1 {
@@ -190,6 +189,7 @@
 
   .u-section-2 .u-list-1 {
     min-height: 239px;
+    height: auto;
   }
 
   .u-section-2 .u-repeater-1 {
